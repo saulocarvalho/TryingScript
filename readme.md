@@ -1,3 +1,9 @@
 Tentando criar scripts em Python
 
-teste alteração
+Ordem para envio 
+git add nomedoarquivo.extensão
+git commit -m "nome do commit"
+git push -u inicio main
+
+
+git status 
