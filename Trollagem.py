@@ -1,4 +1,5 @@
 import pyautogui
+import time
 
 #pyautogui.click('windows2.png')
 #pyautogui.write("notepad")
