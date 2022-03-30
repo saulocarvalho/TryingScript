@@ -14,3 +14,8 @@ git push /Para empurrar as atualizações local para o github
 # Para clonar #
 git clone (link do repositorio)
 git pull /Para puxar as novas atualização feitas em outro pc ou direto no git hub e que esteja no github
+
+
+
+contagem no github
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saulocarvalho}/count.svg"/><p>
